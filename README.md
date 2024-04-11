@@ -5,9 +5,13 @@ Authors:Hao Li, Jinwei Xu, Xinyi Wu, Cong Wan, Weisheng Xu, Jianghao Xiong, Wenb
 Optics Express [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-9-15243&id=548856)]
 
 Date: Apr-22-2024
+
 Version:1.0
+
 The code and algorithm are for non-comeicial use only.
+
 Copyright 2024, School of Information Engineering, Nanchang University.
+
 ## Abstract
 Temporal compressive coherent diffraction imaging is a lensless imaging technique with the capability to capture fast-moving small objects. However, the accuracy of imaging reconstruction is often hindered by the loss of frequency domain information, a critical factor limiting the quality of the reconstructed images. To improve the quality of these reconstructed images, a method dual-domain mean-reverting diffusion model-enhanced temporal compressive coherent diffraction imaging (DMDTC) has been introduced. DMDTC leverages the mean-reverting diffusion model to acquire prior information in both frequency and spatial domain through sample learning. The frequency domain mean-reverting diffusion model is employed to recover missing information, while hybrid input-output algorithm is carried out to reconstruct the spatial domain image. The spatial domain mean-reverting diffusion model is utilized for denoising and image restoration. DMDTC has demonstrated a significant enhancement in the quality of the reconstructed images. The results indicate that the structural similarity and peak signal-to-noise ratio of images reconstructed by DMDTC surpass those obtained through conventional methods. DMDTC enables high time frame rates and high spatial resolution in coherent diffraction imaging. 
 
