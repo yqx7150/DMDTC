@@ -9,7 +9,7 @@ Date: Apr-22-2024
 
 Version:1.0
 
-The code and algorithm are for non-comeicial use only.
+The code and algorithm are for non-comercial use only.
 
 Copyright 2024, School of Information Engineering, Nanchang University.
 
