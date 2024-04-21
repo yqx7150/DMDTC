@@ -34,7 +34,7 @@ datasets:
     LR_size: 128
     use_flip: true
     use_rot: true
-    color: RGB
+    color: gray
   val:
     name: Val_Dataset
     mode: LQGT
@@ -46,8 +46,8 @@ datasets:
 network_G:
   which_model_G: ConditionalUNet
   setting:
-    in_nc: 3
-    out_nc: 3
+    in_nc: 1
+    out_nc: 1
     nf: 64
     depth: 4
 
