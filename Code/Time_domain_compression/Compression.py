@@ -36,7 +36,7 @@ compressed_image = compressed_image.astype(np.float64)
 cv2.imwrite(r"\DMDTC\Code\Time_domain_compression\compressed_image.jpg", compressed_image)
 plt.imshow(compressed_image, cmap='gray')
 plt.show()
-meas = np.stack((compressed_image, compressed_image), axis=2)
+meas = np.stack((compressed_image, compressed_image), axis=0)
 data = {'meas': meas}
 
 
