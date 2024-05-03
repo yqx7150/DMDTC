@@ -1,7 +1,7 @@
 # DMDTC
 Paper:Dual-domain Mean-reverting Diffusion Model-enhanced Temporal Compressive Coherent Diffraction Imaging(DMDTC)
 
-Authors:Hao Li, Jinwei Xu, Xinyi Wu, Cong Wan, Weisheng Xu, Jianghao Xiong, Wenbo Wan, Qiegen Liu, Senior Member, IEEE
+Authors:Hao Li, Jinwei Xu, Xinyi Wu, Cong Wan, Weisheng Xu, Jianghao Xiong, Wenbo Wan*, Qiegen Liu*, Senior Member, IEEE
 
 Optics Express [[Paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-9-15243&id=548856)]
 
