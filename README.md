@@ -57,11 +57,21 @@ We provide the training dataset. Click [datasets](https://pan.baidu.com/s/12zrsj
   Then run `python Code/HIO-DNN/PR_HIO_FFDNet.py` to obtain the spatial domain images. After that, simply run again `python test.py -opt=options/test/ir-sde.yml` to obtain the final results.(Change the pre-trained model from frequency to spatial domain)
 ## Acknowledgement
   Thanks to these repositories for providing us with method code and experimental data: https://github.com/Algolzw/image-restoration-sde , https://github.com/zsm1211/TC-CDI
+
+
 ## Other Related Projects
   * Lens-less imaging via score-based generative model  
 [<font size=5>**[Paper]**</font>](https://www.opticsjournal.net/M/Articles/OJf1842c2819a4fa2e/Abstract)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/LSGM)
 
   * Multi-phase FZA Lensless Imaging via Diffusion Model  
-[<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20595&id=531211)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MLDM)    
-  * Diffusion Models for Medical Imaging    
-[<font size=5>**[Paper]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)  
+[<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20595&id=531211)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MLDM)
+
+  * Imaging through scattering media via generative diffusion model  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1063/5.0180176)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/ISDM)
+
+  * High-resolution iterative reconstruction at extremely low sampling rate for Fourier single-pixel imaging via diffusion model  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1364/OE.510692)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FSPI-DM)
+
+  * Real-time intelligent 3D holographic photography for real-world scenarios  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1364/OE.529107)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Intelligent-3D-holography)
+
