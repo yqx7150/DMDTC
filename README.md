@@ -1,5 +1,5 @@
 # DMDTC
-Paper:Dual-domain Mean-reverting Diffusion Model-enhanced Temporal Compressive Coherent Diffraction Imaging(DMDTC)
+Paper: Dual-domain Mean-reverting Diffusion Model-enhanced Temporal Compressive Coherent Diffraction Imaging(DMDTC)
 
 Authors:Hao Li, Jinwei Xu, Xinyi Wu, Cong Wan, Weisheng Xu, Jianghao Xiong, Wenbo Wan*, Qiegen Liu*, Senior Member, IEEE
 
@@ -65,7 +65,10 @@ We provide the training dataset. Click [datasets](https://pan.baidu.com/s/12zrsj
 
   * Multi-phase FZA Lensless Imaging via Diffusion Model  
 [<font size=5>**[Paper]**</font>](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-12-20595&id=531211)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MLDM)
-
+   
+  * DMEDH: Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1364/OE.531147)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DMEDH)
+  
   * Imaging through scattering media via generative diffusion model  
 [<font size=5>**[Paper]**</font>](https://doi.org/10.1063/5.0180176)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/ISDM)
 
